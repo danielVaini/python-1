@@ -41,3 +41,11 @@ print(nome[0:18])
 # Fatiamento + concatenação
 
 print(nome[:10] + nome[10:])
+
+
+# Podemos também criar um exercicio de pegar a letra
+
+letra = input('Digite um texto: ')
+number = int(input('Digite um numero: ')
+
+print(f'A letra contida no numero {numero} é a {letra}')
